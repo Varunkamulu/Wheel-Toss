@@ -1,0 +1,5 @@
+cls - clear the screen
+getmac/v - getting mac address
+powercfg/energy - checks whether the pc has power issues with the computer
+powercfg/batteryreport - checks whether the pc has battery issues
+chkdsk/f - checks whether the disk has any errors
